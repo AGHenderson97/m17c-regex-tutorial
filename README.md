@@ -1,5 +1,8 @@
 # m17c-regex-tutorial
 
+Description:
+A tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.v
+
 User Story:
 AS A web development student
 I WANT a tutorial explaining a specific regex
